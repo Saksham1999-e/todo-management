@@ -13,6 +13,7 @@ public class Employee {
     private String name;
     private String phone;
     private String email;
+    private String address;
 
     public String getEmail() {
         return email;
