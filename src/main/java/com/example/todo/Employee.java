@@ -15,6 +15,7 @@ public class Employee {
     private String email;
     private String address;
     private String description;
+    private String pincode;
 
     public String getEmail() {
         return email;
